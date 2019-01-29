@@ -1,5 +1,8 @@
 # DC/OS Terraform with Extra Agent Volumes Support
 
+*NOTE*: There is no support for this repository!
+Use at your own risk.
+
 ## Get Started
 
 First, make sure [terraform](https://docs.mesosphere.com/1.12/installing/evaluation/aws/#install-terraform) is installed.
