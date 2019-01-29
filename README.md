@@ -10,6 +10,7 @@ First, make sure [terraform](https://docs.mesosphere.com/1.12/installing/evaluat
 Then, `cd` into the root of this repository.
 
 ```bash
+$ maws
 $ terraform init
 $ terraform apply
 ```
