@@ -1,0 +1,7 @@
+*.pem
+*.tfstate*
+.terraform
+*.out
+*.log
+*.gz
+*.pub
